@@ -10,17 +10,17 @@ url: "https://chenran-mylove.github.io/"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: chenran-mylove
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    ＃weibo: 5366874726
-    github: chenran-mylove
+    #weibo: 5366874726
+    #github: chenran-mylove
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    #jianshu: 2ada30d8d0f7
     # twitter: 
     mail: mayunxi2008@163.com
 
